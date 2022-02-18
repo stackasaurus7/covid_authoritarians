@@ -6,4 +6,4 @@ under 5MB per file
 
 organized by country
 
-file format:[firstname]_[lastname]_[description]
+file format:[firstname]_ [lastname]_ [description]
